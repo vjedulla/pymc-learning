@@ -6,6 +6,5 @@ generated/
 /output
 __pycache__
 .DS_Store
-rewrite_git_history.sh
 logs/*.log
 .vscode
